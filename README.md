@@ -23,8 +23,8 @@
 # Project-5
 ---
 ## [Search-Phone](https://rokomari-phone.netlify.app/)
-# Repository link:(https://github.com/RitaM5/Rokomari-Phone)
 ### just samsung & iphone
+# Repository link:(https://github.com/RitaM5/Rokomari-Phone)
 
 # Project-6
 ---
